@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive programming: inefficiently solving overlapping subproblems. The `bug.py` file contains a recursive Fibonacci function that suffers from this issue. The `bugSolution.py` file provides an optimized version using dynamic programming to avoid redundant calculations.
